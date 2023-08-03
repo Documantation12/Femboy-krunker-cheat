@@ -29,9 +29,7 @@ Enhance your Krunker experience with the Femboy Krunker Cheat – a powerful and
 
 ---
 
-## Screenshots / Videos
-
-![Video](https://cdn.discordapp.com/attachments/1128439505444151318/1129632502965878805/Fembot.mp4)
+## Screenshots 
 
 ![Screenshot 1](https://github.com/Documantation12/Femboy-krunker-cheat/assets/134162456/c35ff10b-ecac-4eb5-846b-1c262e33eabe)
 ![Screenshot 2](https://github.com/Documantation12/Femboy-krunker-cheat/assets/134162456/6063fe36-f271-4577-bb87-cfcfcabc5967)
