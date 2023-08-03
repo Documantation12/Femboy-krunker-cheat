@@ -18,6 +18,17 @@ Enhance your Krunker experience with the Femboy Krunker Cheat – a powerful and
 
 2. Obtain the injector from [Injector](https://injector.sys32.dev/).
 
+## Recent Updates
+
+- **[V1.0.1]**: Fixed Leaderboard Bug.
+
+- **[V1.0.0]**:
+  - Adjusted Ads Range: Set between 0 and 1, reverting the change made in the 2021 update.
+  - Introducing Optimal Fire Rate: Experience consistent fire rates across different game modes, mirroring the Kranked game mode.
+
+
+---
+
 ## Screenshots
 
 ![Screenshot 1](https://github.com/Documantation12/Femboy-krunker-cheat/assets/134162456/c35ff10b-ecac-4eb5-846b-1c262e33eabe)
