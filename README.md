@@ -1,6 +1,6 @@
 # Femboy Krunker Cheat
 
-![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square)](https://discord.gg/ekdpgUSrWB)
+[![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square)](https://discord.gg/ekdpgUSrWB)
 
 Enhance your Krunker experience with the Femboy Krunker Cheat – a powerful and customizable tool designed to elevate your gameplay. Join our Discord community for updates, support, and discussions: [Discord Link](https://discord.gg/ekdpgUSrWB).
 
