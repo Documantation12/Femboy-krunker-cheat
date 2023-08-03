@@ -19,6 +19,7 @@ Enhance your Krunker experience with the Femboy Krunker Cheat – a powerful and
 2. Obtain the injector from [Injector](https://injector.sys32.dev/).
 
 ## Recent Updates
+- **[V1.0.2]**: Unpatched
 
 - **[V1.0.1]**: Fixed Leaderboard Bug.
 
