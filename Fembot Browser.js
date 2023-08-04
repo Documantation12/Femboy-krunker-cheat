@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        krunker Fembot Browser Fixed Leaderboard
+// @name        krunker Fembot Browser Fixed Skin Changer
 // @namespace   krunker
 // @match       *://krunker.io/*
 // @grant       none
