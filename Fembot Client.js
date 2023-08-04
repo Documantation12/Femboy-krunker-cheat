@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        krunker Fembot  Client  Fixed Leaderboard
+// @name        krunker Fembot  Client  Fixed Skin Changer
 // @namespace   krunker
 // @match       *://krunker.io/*
 // @grant       none
