@@ -20,7 +20,7 @@ Enhance your Krunker experience with the Femboy Krunker Cheat – a powerful and
 
 ## Recent Updates
 
-- **[V1.0.3]**: Skin CHanger Fixed
+- **[V1.0.3]**: Skin Changer Fixed
 
 - **[V1.0.2]**: Unpatched
 
