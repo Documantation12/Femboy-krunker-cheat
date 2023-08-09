@@ -16,7 +16,7 @@ Enhance your Krunker experience with the Femboy Krunker Cheat – a powerful and
 
 1. Download the cheat files from the following links:
 
-- [Fembot.js](https://raw.githubusercontent.com/Documantation12/Femboy-krunker-cheat/main/Fembot.js)
+ - [Fembot.js](https://raw.githubusercontent.com/Documantation12/Femboy-krunker-cheat/main/Fembot.js)
 
 2. Obtain the injector from [Injector](https://injector.sys32.dev/).
 
