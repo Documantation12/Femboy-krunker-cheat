@@ -51,4 +51,4 @@ This cheat is intended for educational and recreational purposes only. Use at yo
 
 ---
 
-Designed with ❤️ for the Krunker community by Femboy Krunker Cheat developers.
+Designed with ❤️ for the Krunker community by Jaguar.
