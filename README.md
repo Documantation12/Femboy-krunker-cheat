@@ -7,10 +7,17 @@ Enhance your Krunker experience with the Femboy Krunker Cheat – a powerful and
 [Discord Link](https://discord.gg/ekdpgUSrWB)
 
 ## Features
-
+- Aimbot
+- Silent Aim
+- Skin Hack
+- Third Person
+- Pitch hacks
+- Spin bot
+- Esp
 - Advanced client-side enhancements
 - Seamless browser integration
 - User-friendly injector for easy deployment
+- And Many More
 
 ## Installation
 
