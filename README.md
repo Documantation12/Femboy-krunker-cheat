@@ -29,6 +29,8 @@ Enhance your Krunker experience with the Femboy Krunker Cheat – a powerful and
 
 ## Recent Updates
 
+- **[V1.0.6]**: Made The Menu Open Key Insert Instead Of F1 And Updated Discord Server Link
+
 - **[V1.0.5]**: Added Tabs Back Removed Useless Console Logs
 
 - **[V1.0.4]**: Removed useless stuff from hook and made it so u wont go into the bot lobbie when cache is cleared.
