@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name        krunker Fembot.js
+// @name        Krunker Fembot.js
 // @namespace   krunker
 // @match       *://krunker.io/*
 // @grant       none
 // @version     6.0
 // @icon        https://media.discordapp.net/attachments/1128431056513675339/1128886443843002510/icon.png?width=225&height=187
 // @author      jaguar
-// @description krunker Fembot
+// @description Krunker Fembot
 // @run-at      document-start
 // @noframes
 // ==/UserScript==
