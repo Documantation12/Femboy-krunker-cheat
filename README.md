@@ -29,11 +29,17 @@ Enhance your Krunker experience with the Femboy Krunker Cheat – a powerful and
 
 ## Recent Updates
 
+- **[V1.0.7]**: - Added So you can add ur custom keybind
+
+```js
+const keybind = 'F1';
+```
+
 - **[V1.0.6]**: Made The Menu Open Key Insert Instead Of F1 And Updated Discord Server Link
 
 - **[V1.0.5]**: Added Tabs Back Removed Useless Console Logs
 
-- **[V1.0.4]**: Removed useless stuff from hook and made it so u wont go into the bot lobbie when cache is cleared.
+- **[V1.0.4]**: Removed useless stuff from hook and made it so u won't go into the bot lobbies when cache is cleared.
 
 - **[V1.0.3]**: Skin Changer Fixed
 
