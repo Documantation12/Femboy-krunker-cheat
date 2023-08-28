@@ -4,7 +4,7 @@
 
 Enhance your Krunker experience with the Femboy Krunker Cheat – a powerful and customizable tool designed to elevate your gameplay. Join our Discord community for updates, support, and discussions: 
 
-[Discord Link](https://discord.gg/4T6HGWTBd7)
+[Discord Link](https://discord.gg/n3ruS3jzvv)
 
 ## Features
 - Aimbot
