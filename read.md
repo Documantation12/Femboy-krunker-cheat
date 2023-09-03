@@ -1,0 +1,5 @@
+![Config](https://github.com/Documantation12/Femboy-krunker-cheat/assets/134162456/457a29cd-6ba1-4e24-9029-37931f973322)
+![Config (1)](https://github.com/Documantation12/Femboy-krunker-cheat/assets/134162456/0e12c71a-86b5-4c03-befb-3246d62e37e8)
+![gear config](https://github.com/Documantation12/Femboy-krunker-cheat/assets/134162456/98cc3e01-9ad3-4c3d-937c-036d6fa95eae)
+![Weapons](https://github.com/Documantation12/Femboy-krunker-cheat/assets/134162456/5c68d481-2bbc-400d-8af8-5ef2ac5af899)
+![Visuals](https://github.com/Documantation12/Femboy-krunker-cheat/assets/134162456/44e95c75-30b6-4723-a2f1-7684b91eb0c3)
