@@ -33,8 +33,7 @@ Enhance your Krunker experience with the Femboy Krunker Cheat – a powerful and
 - Added Icons To tabs
 - Added More Fov Options
 
-
-- **[V1.0.9]**: - Bombalcat
+- **[V1.0.9]**: - Updated Colors
 
 - **[V1.0.8]**: - Made gui Look better 
   
