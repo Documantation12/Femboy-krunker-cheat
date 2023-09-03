@@ -29,6 +29,9 @@ Enhance your Krunker experience with the Femboy Krunker Cheat – a powerful and
 
 ## Recent Updates
 
+- **[V1.0.8]**: - Made gui Look better 
+  
+
 - **[V1.0.7]**: - Added So you can add ur custom keybind
 
 ```js
