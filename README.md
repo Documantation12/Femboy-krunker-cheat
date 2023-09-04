@@ -64,6 +64,7 @@ const keybind = 'F1';
 
 ## Screenshots 
 
+![image](https://github.com/Documantation12/Femboy-krunker-cheat/assets/134162456/1c094490-6f98-419f-bf24-ba93b979b562)
 ![image](https://github.com/Documantation12/Femboy-krunker-cheat/assets/134162456/b116f9dd-1852-4768-b5d9-6e227f2c6974)
 ![image](https://github.com/Documantation12/Femboy-krunker-cheat/assets/134162456/884c541a-818d-4079-8afd-1e11724382c3)
 ![Screenshot 1](https://github.com/Documantation12/Femboy-krunker-cheat/assets/134162456/c35ff10b-ecac-4eb5-846b-1c262e33eabe)
