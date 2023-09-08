@@ -29,6 +29,9 @@ Enhance your Krunker experience with the Femboy Krunker Cheat – a powerful and
 
 ## Recent Updates
 
+- **[V1.2.0]**: 
+- Minor tweaks
+
 - **[V1.1.0]**: 
 - Added Icons To tabs
 - Added More Fov Options
