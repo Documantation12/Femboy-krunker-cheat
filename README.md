@@ -29,6 +29,9 @@ Enhance your Krunker experience with the Femboy Krunker Cheat – a powerful and
 
 ## Recent Updates
 
+- **[V1.2.2]**: 
+- Fixed GreySkin (I think bc nobody is online to test so ur my testers!!!!)
+
 - **[V1.2.1]**: 
 - 😁
 
