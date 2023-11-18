@@ -10,6 +10,8 @@ Enhance your Krunker experience with the Femboy Krunker Cheat – a powerful and
 - Aimbot
 - Silent Aim
 - Skin Hack
+- World Options
+- Auto Bhop
 - Third Person
 - Pitch hacks
 - Spin bot
