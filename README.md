@@ -27,52 +27,6 @@ Enhance your Krunker experience with the Femboy Krunker Cheat – a powerful and
 
 2. Obtain the injector from [Injector](https://injector.krunker.zip/).
 
-## Recent Updates
-
-- **[V1.2.3]**: 
-- New Chat System
-- Added Silent Aimbot Back
-- Removed discord redirect
-
-- **[V1.2.2]**: 
-- Fixed GreySkin (I think bc nobody is online to test so ur my testers!!!!)
-
-- **[V1.2.1]**: 
-- 😁
-
-- **[V1.2.0]**: 
-- Minor tweaks
-
-- **[V1.1.0]**: 
-- Added Icons To tabs
-- Added More Fov Options
-
-- **[V1.0.9]**: - Updated Colors
-
-- **[V1.0.8]**: - Made gui Look better 
-  
-- **[V1.0.7]**: - Added So you can add ur custom keybind
-
-```js
-const keybind = 'F1';
-```
-
-- **[V1.0.6]**: Made The Menu Open Key Insert Instead Of F1 And Updated Discord Server Link
-
-- **[V1.0.5]**: Added Tabs Back Removed Useless Console Logs
-
-- **[V1.0.4]**: Removed useless stuff from hook and made it so u won't go into the bot lobbies when cache is cleared.
-
-- **[V1.0.3]**: Skin Changer Fixed
-
-- **[V1.0.2]**: Unpatched
-
-- **[V1.0.1]**: Fixed Leaderboard Bug.
-
-- **[V1.0.0]**:
-  - Adjusted Ads Range: Set between 0 and 1, reverting the change made in the 2021 update.
-  - Introducing Optimal Fire Rate: Experience consistent fire rates across different game modes, mirroring the Kranked game mode.
-
 
 ---
 
